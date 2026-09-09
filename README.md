@@ -25,7 +25,7 @@ It performs a predefined movement sequence, including:
 - Slow movement after the turn
 - Temporary backward movement when the Follower loses the tag for too long
   
-![Mecanum Robot](images/mecanum_robot.jpg)
+<img src="./images/mecanum_robot.jpg" alt="Mecanum Robot" width="500">
 ---
 
 ### 2. Self-Balancing Robot — Follower
