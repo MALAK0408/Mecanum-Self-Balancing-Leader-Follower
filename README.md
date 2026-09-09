@@ -25,7 +25,7 @@ It performs a predefined movement sequence, including:
 - Slow movement after the turn
 - Temporary backward movement when the Follower loses the tag for too long
   
-<img src="./images/mecanum_robot.jpg" alt="Mecanum Robot" width="500">
+![Mecanum Robot](images/mecanum_robot.jpg)
 ---
 
 ### 2. Self-Balancing Robot — Follower
@@ -48,7 +48,7 @@ An AprilTag is used as the visual reference between the two robots.
 The Follower searches for the specific target tag and uses its position and apparent size to control its movement.
 
 The system also includes a search strategy when the AprilTag is temporarily lost.
-
+![Robots Leader-Follower](images/robots.jpg)
 ---
 
 ##  Distance Control
