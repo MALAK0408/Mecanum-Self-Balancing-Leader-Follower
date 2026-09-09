@@ -24,7 +24,8 @@ It performs a predefined movement sequence, including:
 - Waiting for the Follower to detect the AprilTag
 - Slow movement after the turn
 - Temporary backward movement when the Follower loses the tag for too long
-
+  
+![Mecanum Robot](images/mecanum_robot.jpg)
 ---
 
 ### 2. Self-Balancing Robot — Follower
@@ -37,6 +38,7 @@ When the tag is detected, the robot follows the Leader and adjusts its speed acc
 
 The target distance is approximately **15 cm**.
 
+![Self-Balancing Robot](images/self_balancing_robot.jpg)
 ---
 
 ##  AprilTag Detection
